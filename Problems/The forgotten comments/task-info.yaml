@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    The restriction: the class should have the name Main
+    public class Main {
+
+        The start point of your program
+        public static void main(String[] args) {
+            System.out.println("It's compiled!"); It prints "It's compiled!"
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2161
+status: Solved
+record: -1

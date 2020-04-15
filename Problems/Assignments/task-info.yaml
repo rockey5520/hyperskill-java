@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+            int a;
+            int b;
+            int c;
+
+            System.out.println(a + " " + b + " " + c);
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2314
+status: Solved
+record: -1

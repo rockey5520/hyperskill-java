@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+
+            // Add type to these two variables
+            a = 512343;
+            b = 3431231;
+
+            System.out.println(a + b);
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2315
+status: Solved
+record: -1
