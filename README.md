@@ -8,9 +8,10 @@
 |                          Challenge                           |                           Solution                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [is-between](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Is%20between/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Is%20between/src/Main.java) |
+| [exactly-one](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Exactly%20one%20parameter%20is%20positive/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Exactly%20one%20parameter%20is%20positive/src/Main.java) |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
-|                                                              |                                                              |
+
