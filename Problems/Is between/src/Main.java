@@ -7,9 +7,12 @@ class Main {
     int a = scanner.nextInt();
     int b = scanner.nextInt();
     int c = scanner.nextInt();
-    if (a >= b && a <= c) {
+
+    if (a > 0 && b <= 0 && c <= 0) {
       System.out.println("true");
-    } else if (a <= b && a >= c) {
+    } else if (a <= 0 && b > 0 && c <= 0) {
+      System.out.println("true");
+    } else if (a <= 0 && b <= 0 && c > 0) {
       System.out.println("true");
     } else {
       System.out.println("false");

@@ -26,3 +26,4 @@ content:
 - Extracting a substring
 - Comparing strings ignoring whitespaces
 - Is between
+- Exactly one parameter is positive
