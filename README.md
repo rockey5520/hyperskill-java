@@ -13,5 +13,5 @@
 | [Triangle](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Triangle/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Triangle/src/Main.java) |
 | [Chocolate](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Chocolate/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Chocolate/src/Main.java) |
 | [count of numbers](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/The%20count%20of%20numbers%20divisible%20by%20N/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/The%20count%20of%20numbers%20divisible%20by%20N/src/Main.java) |
-|                                                              |                                                              |
+| [numbers divisible by 6](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Numbers%20divisible%20by%20six/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Numbers%20divisible%20by%20six/src/Main.java) |
 
