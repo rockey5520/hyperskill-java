@@ -11,7 +11,7 @@
 | [exactly-one](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Exactly%20one%20parameter%20is%20positive/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Exactly%20one%20parameter%20is%20positive/src/Main.java) |
 | [Healthy sleep](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Healthy%20sleep/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Healthy%20sleep/src/Main.java) |
 | [Triangle](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Triangle/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Triangle/src/Main.java) |
-|                                                              |                                                              |
+| [Chocolate](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Chocolate/task.html) | [solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Chocolate/src/Main.java) |
 |                                                              |                                                              |
 |                                                              |                                                              |
 
