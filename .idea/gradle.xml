@@ -8,16 +8,45 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Cats are robots" />
+            <option value="$PROJECT_DIR$/Problems/Chocolate" />
+            <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems/Decrement all" />
+            <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Problems/First, second, third" />
             <option value="$PROJECT_DIR$/Problems/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
             <option value="$PROJECT_DIR$/Problems/Hello!" />
             <option value="$PROJECT_DIR$/Problems/Hello, Java" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Problems/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Problems/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Problems/Is between" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Problems/Snail" />
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />
+            <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Problems/The countdown" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The number of tens" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Problems/The sum of elements" />
+            <option value="$PROJECT_DIR$/Problems/Three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/We need to learn Java" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
             <option value="$PROJECT_DIR$/util" />

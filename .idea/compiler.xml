@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="Problems-Cats_are_robots_main" target="11" />
-      <module name="Problems-Cats_are_robots_test" target="11" />
-      <module name="Problems-From_0_to_4_main" target="11" />
-      <module name="Problems-From_0_to_4_test" target="11" />
-      <module name="Problems-Hello!_main" target="11" />
-      <module name="Problems-Hello!_test" target="11" />
-      <module name="Problems-Hello,_Java_main" target="11" />
-      <module name="Problems-Hello,_Java_test" target="11" />
-      <module name="Problems-The_Hello_World_program_main" target="11" />
-      <module name="Problems-The_Hello_World_program_test" target="11" />
-      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
-      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
-      <module name="Problems-We_need_to_learn_Java_main" target="11" />
-      <module name="Problems-We_need_to_learn_Java_test" target="11" />
-      <module name="Simple_Chatty_Bot-task_main" target="11" />
-      <module name="Simple_Chatty_Bot-task_test" target="11" />
-      <module name="util_main" target="11" />
-      <module name="util_test" target="11" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

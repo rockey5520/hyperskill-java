@@ -1,3 +1,4 @@
+// Posted from EduTools plugin
 import java.util.*;
 
 import java.util.ArrayList;
@@ -25,6 +26,8 @@ class Main {
                 finalgueslist.add(s);
             }
         }
+
+
         for (int i = finalgueslist.size()-1 ; i >= 0 ; i--) {
             System.out.println(finalgueslist.get(i));
         }

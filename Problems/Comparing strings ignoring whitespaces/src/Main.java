@@ -1,3 +1,4 @@
+// Posted from EduTools plugin
 import java.util.Scanner;
 
 class Main {

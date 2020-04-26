@@ -1,3 +1,4 @@
+// Posted from EduTools plugin
 //The restriction: the class should have the name Main
 public class Main {
 
