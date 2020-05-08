@@ -22,6 +22,10 @@
 | [Bus tour](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Bus%20tour/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Bus%20tour/src/Main.java) |
 | [The (un)-ordered sequence](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/The%20(un)-ordered%20sequence/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/The%20(un)-ordered%20sequence/src/Main.java) |
 | [Vowel or not](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Vowel%20or%20not/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Vowel%20or%20not/src/Main.java) |
+| [Raise to the power](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Raise%20to%20the%20power/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Raise%20to%20the%20power/src/Main.java) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
 
