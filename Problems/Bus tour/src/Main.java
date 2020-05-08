@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int busHeight = scanner.nextInt();
+        int numberOfBridges = scanner.nextInt();
         int counter = 1;
             while (scanner.hasNext()){
                 int bridgeHeight = scanner.nextInt();
