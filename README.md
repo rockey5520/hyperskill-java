@@ -19,7 +19,7 @@
 | [Collatz conjecture](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Collatz%20conjecture/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Collatz%20conjecture/src/Main.java) |
 | [The smallest value](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/The%20smallest%20value/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/The%20smallest%20value/src/Main.java) |
 | [Even or odd](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Even%20or%20odd/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Even%20or%20odd/src/Main.java) |
-|                           Bus tour                           |                                                              |
+| [Bus tour](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Bus%20tour/task.html) | [Solution](https://github.com/rockey5520/hyperskill-java/blob/master/Problems/Bus%20tour/src/Main.java) |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
