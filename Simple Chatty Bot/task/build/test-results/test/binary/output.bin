@@ -1,4 +1,34 @@
 [1;31m
 Start test 1[0m
-Hello! My name is Rock
-I was created in 2020
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+> Marry
+"What a great name you have, Marry!
+Let me guess your age.
+4Enter remainders of dividing your age by 3, 5 and 7.
+> 1 0 5
+8Your age is 40; that's a good time to start programming!
+@Now I will prove to you that I can count to any number you want.
+> 10
+0!
+1!
+2!
+3!
+4!
+5!
+6!
+7!
+8!
+9!
+10!
+&Let's test your programming knowledge.
+Why do we use methods?
+(1. To repeat a statement multiple times.
+92. To decompose a program into several small subroutines.
+03. To determine the execution time of a program.
++4. To interrupt the execution of a program.
+> 1
+Please, try again.
+> 2
+!Congratulations, have a nice day!
