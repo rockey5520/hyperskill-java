@@ -27,15 +27,9 @@ public class PersonalAssistantTest extends StageTest<Clue> {
 
     @Override
     public List<TestCase<Clue>> generate() {
-        String input = "Marry\n1 0 5\n10";
-
-        for (int i = 1; i < 9; i++) {
-            input += "\n" + i;
-        }
-
         return List.of(
             new TestCase<Clue>()
-                .setInput(input)
+                .setInput("Marry\n1 0 5\n10")
                 .setAttach(new Clue("Marry", 40, 10))
         );
     }
@@ -47,9 +41,9 @@ public class PersonalAssistantTest extends StageTest<Clue> {
 
         int length = 9 + clue.count + 1;
 
-        if (lines.length <= length) {
+        if (lines.length != length) {
             return CheckResult.wrong(
-                "You should output at least " + (length + 1) + " lines " +
+                "You should output " + length + " lines " +
                 "(for the count number " + clue.count +").\n" +
                 "Lines found: " + lines.length + "\n" +
                 "Your output:\n" +
@@ -93,17 +87,6 @@ public class PersonalAssistantTest extends StageTest<Clue> {
                     "\"" + numLine + "\""
                 );
             }
-        }
-
-        String lastLine = lines[lines.length - 1];
-
-        if (!lastLine.equals("Congratulations, have a nice day!")) {
-            return CheckResult.wrong(
-                "Your last line should be:\n" +
-                "\"Congratulations, have a nice day!\"\n" +
-                "Found:\n" +
-                "\"" + lastLine + "\""
-            );
         }
 
         return CheckResult.correct();

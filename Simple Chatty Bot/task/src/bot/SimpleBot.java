@@ -30,24 +30,6 @@ public class SimpleBot {
             System.out.println(i+"!");
         }
 
-        System.out.println("Let's test your programming knowledge.");
-        System.out.println("Why do we use methods?");
-        System.out.println("1. To repeat a statement multiple times.");
-        System.out.println("2. To decompose a program into several small subroutines.");
-        System.out.println("3. To determine the execution time of a program.");
-        System.out.println("4. To interrupt the execution of a program.");
-        int choice = 0;
-        choice = scanner.nextInt();
-        boolean condition = true;
-        while (condition){
-            if(choice == 2){
-                condition = false;
-                System.out.println("Congratulations, have a nice day!");
-                System.exit(0);
-            }
-            System.out.println("Please, try again.");
-            choice = scanner.nextInt();
-        }
-
+        System.out.println("Completed, have a nice day!");
     }
 }
